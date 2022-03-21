@@ -1,22 +1,20 @@
-=============================
-Sitwalk Driver Documentations
-=============================
+=============
+Sitwalk 文档
+=============
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :caption: 内容:
 
    QuickGuide
    Overview
-   MainDriver
+   WindowsDriver
    UnrealEnginePlugin
    UnityPlugin
    SteamPlugin
-   License
-   Help
 
-Indices and tables
-==================
+索引和表格
+==========
 
 * :ref:`genindex`
 * :ref:`modindex`
