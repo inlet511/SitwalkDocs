@@ -1,7 +1,21 @@
-========
-Overview
+====
+概述
+====
+
+驱动分类及下载
+==============
+
+| Sitwalk驱动包含两个类别，分别是服务端类别和客户端类别。
+
+:服务端: 服务端驱动目前仅支持Windows系统，下载地址为:下载
+
+:客户端: 客户端类别支持SteamVR、UE4、Unity3D，均以插件形式提供。SteamVR驱动可以在Steam商城免费获取，下载地址:待定。
+
+| UE4以及Unity3D插件仅向企业用户提供，在购买企业版Sitwalk座椅时提供。
+
+用户分类
 ========
 
-The Sitwalk drivers consists of several independant software or plugins, which are:
+:游戏玩家: 对于游戏玩家，需要安装Windows驱动以及SteamVR驱动。
 
-however only two of them are necessary for players
+:开发者: 对于购买了Sitwalk企业版的开发者用户，可以联系我们获取UE4及Unity3D的插件。
