@@ -240,9 +240,9 @@ msgstr "For safety reasons, the seat cannot be rotated until rotation is enabled
 
 #: ../../source/ServerDriver.rst:119
 msgid "在驱动软件上切换到\"设置\"标签栏"
-msgstr ""
+msgstr "Switch to the \"Settings\" tab on the driver software"
 
 #: ../../source/ServerDriver.rst:120
 msgid "点击\"启用座椅旋转\"按钮"
-msgstr "Switch to the \"Settings\" tab on the driver software"
+msgstr "Click the \"Enable Seat Rotation\" button"
 

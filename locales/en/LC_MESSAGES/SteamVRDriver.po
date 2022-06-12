@@ -62,7 +62,6 @@ msgstr ""
 "to start it."
 
 #: ../../source/SteamVRDriver.rst:23
-#, fuzzy
 msgid "如果是手动下载的，需要将文件解压缩到任意位置，并在其中找到SteamDriverManager.exe文件启动。"
 msgstr ""
 "If it is downloaded manually, you need to extract the file to any "
