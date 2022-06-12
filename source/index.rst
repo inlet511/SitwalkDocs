@@ -12,6 +12,7 @@ Sitwalk 文档
    UnrealEngineDriver
    Unity3DDriver
    SteamVRDriver
+   SteamVRBindings
 
 索引和表格
 ==========

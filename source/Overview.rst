@@ -12,7 +12,7 @@
 
 :服务端:    服务端驱动目前仅支持 :doc:`Windows系统 <ServerDriver>` , `下载地址 <https://sourceforge.net/projects/sitwalkwindowsdriver/files/windows_drivers/>`_
 
-:客户端:    客户端驱动有三种: :doc:`SteamVR驱动 <SteamVRDriver>` 、 :doc:`UE4驱动 <UnrealEngineDriver>` 、 :doc:`Unity3D驱动 <Unity3DDriver>` 。SteamVR驱动可以在Steam商城免费获取(搜索Sitwalk), 也可以在 `这里 <https://sourceforge.net/projects/sitwalksteamdriver/files/>`_ 下载。   注释
+:客户端:    客户端驱动有三种: :doc:`SteamVR驱动 <SteamVRDriver>` 、 :doc:`UE4驱动 <UnrealEngineDriver>` 、 :doc:`Unity3D驱动 <Unity3DDriver>` 。SteamVR驱动可以在Steam商城免费获取(搜索Sitwalk), 也可以在 `这里 <https://sourceforge.net/projects/sitwalksteamdriver/files/>`_ 下载。
 
 
 

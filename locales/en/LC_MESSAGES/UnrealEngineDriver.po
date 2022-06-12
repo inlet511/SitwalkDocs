@@ -1,0 +1,39 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2022, Ken An
+# This file is distributed under the same license as the Sitwalk Documents
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Sitwalk Documents \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-06-12 10:54+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+
+#: ../../source/UnrealEngineDriver.rst:3
+msgid "Unreal Engine 驱动"
+msgstr "Unreal Engine Driver"
+
+#: ../../source/UnrealEngineDriver.rst:6
+msgid "使用说明"
+msgstr "Instructions"
+
+#: ../../source/UnrealEngineDriver.rst:8
+msgid "将插件拷贝到虚幻C++工程的Plugin目录中，编译并运行工程"
+msgstr "Copy the plugin to the Plugin directory of the Unreal C++ project, compile and run the project"
+
+#: ../../source/UnrealEngineDriver.rst:10
+msgid ""
+"打开蓝图，搜索关键词\"Sitwalk\"，可以看到Get Absolute Yaw, Get Forward Input, Get Right "
+"Input, Get Wheel Angle几个节点, 在Tick中调用即可。"
+msgstr ""
+"Open the blueprint, search for the keyword \"Sitwalk\", you can see Get Absolute Yaw, Get Forward Input, Get Right "
+"Input, Get Wheel Angle, you can invoke them in Tick。"

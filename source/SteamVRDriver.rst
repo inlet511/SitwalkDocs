@@ -20,7 +20,7 @@ SteamVR 驱动
 ========
 
 - 如果从Steam商城中下载，可以直接点击Launch即可启动。
-- 如果是手动下载的，需要将文件加压缩到任意位置，并在其中找到SteamDriverManager.exe文件启动。
+- 如果是手动下载的，需要将文件解压缩到任意位置，并在其中找到SteamDriverManager.exe文件启动。
 
 第一次启动软件，会出现如下界面：
 
