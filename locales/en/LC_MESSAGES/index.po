@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Sitwalk Documents \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-06-12 10:55+0800\n"
+"POT-Creation-Date: 2022-06-12 20:30+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -26,19 +26,15 @@ msgstr "Content:"
 msgid "Sitwalk 文档"
 msgstr "Sitwalk Documentation"
 
-#: ../../source/index.rst:18
-msgid "索引和表格"
-msgstr "Indices and Table"
+#~ msgid "索引和表格"
+#~ msgstr "Indices and Table"
 
-#: ../../source/index.rst:20
-msgid ":ref:`genindex`"
-msgstr ":ref:`genindex`"
+#~ msgid ":ref:`genindex`"
+#~ msgstr ":ref:`genindex`"
 
-#: ../../source/index.rst:21
-msgid ":ref:`modindex`"
-msgstr ":ref:`modindex`"
+#~ msgid ":ref:`modindex`"
+#~ msgstr ":ref:`modindex`"
 
-#: ../../source/index.rst:22
-msgid ":ref:`search`"
-msgstr ":ref:`search`"
+#~ msgid ":ref:`search`"
+#~ msgstr ":ref:`search`"
 

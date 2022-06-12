@@ -13,10 +13,3 @@ Sitwalk 文档
    Unity3DDriver
    SteamVRDriver
    SteamVRBindings
-
-索引和表格
-==========
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
