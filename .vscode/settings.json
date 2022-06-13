@@ -1,3 +1,4 @@
 {
-    "esbonio.sphinx.confDir": ""
+    "esbonio.sphinx.confDir": "",
+    "editor.fontFamily": "'Ubuntu Mono derivative Powerline', Consolas, 'Courier New', monospace"
 }

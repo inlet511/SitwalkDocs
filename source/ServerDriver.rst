@@ -9,7 +9,7 @@
 1 驱动下载及安装
 ================
 
-1. 下载Windows驱动安装文件 `Sitwalk Windows 驱动 <https://sourceforge.net/projects/sitwalkwindowsdriver/files/windows_drivers/>`_ ;
+1. 下载Windows驱动安装文件 `通过SourceForge下载 <https://sourceforge.net/projects/sitwalkwindowsdriver/files/windows_drivers/>`_  或 `通过CDN下载 <http://rdeg64s4m.hn-bkt.clouddn.com/SitwalkSetup_v1.0.1.zip>`_ ;
 #. 双击运行安装文件;
 #. 按照提示完成安装。
 

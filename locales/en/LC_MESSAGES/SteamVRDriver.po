@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Sitwalk Documents \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-06-12 14:28+0800\n"
+"POT-Creation-Date: 2022-06-13 16:53+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -35,95 +35,127 @@ msgid "在Steam商城中搜索Sitwalk"
 msgstr "Search Sitwalk in the Steam Store"
 
 #: ../../source/SteamVRDriver.rst:11
-msgid "我们提供的 `下载地址 <https://sourceforge.net/projects/sitwalksteamdriver/files/>`_"
-msgstr "Our `Download_Link <https://sourceforge.net/projects/sitwalksteamdriver/files/>`_"
+msgid ""
+"`通过SourceForge下载 "
+"<https://sourceforge.net/projects/sitwalksteamdriver/files/>`_"
+msgstr ""
+"`Download via SourceForge "
+"<https://sourceforge.net/projects/sitwalksteamdriver/files/>`_"
 
-#: ../../source/SteamVRDriver.rst:15
+#: ../../source/SteamVRDriver.rst:12
+msgid "`通过CDN下载 <http://rdeg64s4m.hn-bkt.clouddn.com/SteamDriver.zip>`_"
+msgstr "`Download via CDN <http://rdeg64s4m.hn-bkt.clouddn.com/SteamDriver.zip>`_"
+
+#: ../../source/SteamVRDriver.rst:16
 msgid "选择一种方式下载即可，请勿重复下载和操作。"
 msgstr ""
 "Choose a method to download, please do not repeat the download and "
 "operation."
 
-#: ../../source/SteamVRDriver.rst:17
+#: ../../source/SteamVRDriver.rst:18
 msgid "该软件在一台计算机上仅需开启一次即可保证驱动工作，无需每次开机都开启。"
 msgstr ""
 "The software only needs to be run once on a computer to ensure that the "
 "driver works, and there is no need to open it every time the computer is "
 "turned on."
 
-#: ../../source/SteamVRDriver.rst:20
+#: ../../source/SteamVRDriver.rst:21
 msgid "使用说明"
 msgstr "Instructions"
 
-#: ../../source/SteamVRDriver.rst:22
+#: ../../source/SteamVRDriver.rst:23
 msgid "如果从Steam商城中下载，可以直接点击Launch即可启动。"
 msgstr ""
 "If you downloaded it from the Steam store, you can directly click Launch "
 "to start it."
 
-#: ../../source/SteamVRDriver.rst:23
+#: ../../source/SteamVRDriver.rst:24
 msgid "如果是手动下载的，需要将文件解压缩到任意位置，并在其中找到SteamDriverManager.exe文件启动。"
 msgstr ""
 "If it is downloaded manually, you need to extract the file to any "
 "location and find the SteamDriverManager.exe file to start it."
 
-#: ../../source/SteamVRDriver.rst:25
+#: ../../source/SteamVRDriver.rst:26
 msgid "第一次启动软件，会出现如下界面："
-msgstr "The first time you start the software, the following interface will appear:"
+msgstr ""
+"The first time you start the software, the following interface will "
+"appear:"
 
-#: ../../source/SteamVRDriver.rst:29
+#: ../../source/SteamVRDriver.rst:30
 msgid "点击“注册驱动\",界面即变为："
 msgstr "Click Register Driver, the interface will become:"
 
-#: ../../source/SteamVRDriver.rst:33
+#: ../../source/SteamVRDriver.rst:34
 msgid "之后即可关闭该窗口，不会影响驱动的工作。"
 msgstr "The window can then be closed without affecting the work of the driver."
 
-#: ../../source/SteamVRDriver.rst:36
+#: ../../source/SteamVRDriver.rst:37
 msgid "高级选项"
 msgstr "Advanced options"
 
-#: ../../source/SteamVRDriver.rst:38
+#: ../../source/SteamVRDriver.rst:39
 msgid "为了诊断可能出现的问题，软件提供了高级选项："
 msgstr "To diagnose possible problems, the software provides advanced options:"
 
-#: ../../source/SteamVRDriver.rst:42
-msgid "Steam路径: 软件检测到的Steam安装路径，可以验证是否与实际情况一致"
-msgstr "Steam Path: The Steam installation path detected by the software, you can verify whether it is consistent with the actual situation"
-
 #: ../../source/SteamVRDriver.rst:43
-msgid "Exe路径: 软件检测到的vrpathreg.exe程序的路径，该程序是SteamVR附带的小程序，用于管理SteamVR的驱动"
-msgstr "Exe path: The path of the vrpathreg.exe program detected by the software, which is a small program attached to SteamVR and used to manage the drivers of SteamVR"
+msgid "Steam路径: 软件检测到的Steam安装路径，可以验证是否与实际情况一致"
+msgstr ""
+"Steam Path: The Steam installation path detected by the software, you can"
+" verify whether it is consistent with the actual situation"
 
 #: ../../source/SteamVRDriver.rst:44
-msgid "配置路径: 软件检测到的openvrpaths.vrpath文件所在路径。SteamVR(openvr)的综合信息存储文件，包括外部驱动的路径"
-msgstr "Config path: The path where the openvrpaths.vrpath file is located. Comprehensive information storage file for SteamVR (openvr), including paths to external drivers"
+msgid "Exe路径: 软件检测到的vrpathreg.exe程序的路径，该程序是SteamVR附带的小程序，用于管理SteamVR的驱动"
+msgstr ""
+"Exe path: The path of the vrpathreg.exe program detected by the software,"
+" which is a small program attached to SteamVR and used to manage the "
+"drivers of SteamVR"
 
 #: ../../source/SteamVRDriver.rst:45
-msgid "目标路径：当前要注册的驱动的目录，和当前这个窗口程序处于相同目录，驱动文件夹名称为sitwalk"
-msgstr "Target path: the directory of the current driver to be registered, which is in the same directory as the current window program, and the name of the driver folder is sitwalk"
+msgid "配置路径: 软件检测到的openvrpaths.vrpath文件所在路径。SteamVR(openvr)的综合信息存储文件，包括外部驱动的路径"
+msgstr ""
+"Config path: The path where the openvrpaths.vrpath file is located. "
+"Comprehensive information storage file for SteamVR (openvr), including "
+"paths to external drivers"
 
 #: ../../source/SteamVRDriver.rst:46
+msgid "目标路径：当前要注册的驱动的目录，和当前这个窗口程序处于相同目录，驱动文件夹名称为sitwalk"
+msgstr ""
+"Target path: the directory of the current driver to be registered, which "
+"is in the same directory as the current window program, and the name of "
+"the driver folder is sitwalk"
+
+#: ../../source/SteamVRDriver.rst:47
 msgid "所有路径：即openvrpaths.vrpath文件的所有内容，方便诊断问题"
-msgstr "All paths: that is, all the contents of the openvrpaths.vrpath file, which is convenient for diagnosing problems"
+msgstr ""
+"All paths: that is, all the contents of the openvrpaths.vrpath file, "
+"which is convenient for diagnosing problems"
 
-#: ../../source/SteamVRDriver.rst:51
+#: ../../source/SteamVRDriver.rst:52
 msgid "除非手动注销驱动或者误删了驱动文件，导致驱动错误，否则是无需进行更多的操作。"
-msgstr "Unless you manually log out the driver or delete the driver file by mistake, resulting in a driver error, no more operations are required."
+msgstr ""
+"Unless you manually log out the driver or delete the driver file by "
+"mistake, resulting in a driver error, no more operations are required."
 
-#: ../../source/SteamVRDriver.rst:54
+#: ../../source/SteamVRDriver.rst:55
 msgid "软件更新"
 msgstr "Software update"
 
-#: ../../source/SteamVRDriver.rst:56
+#: ../../source/SteamVRDriver.rst:57
 msgid "除非有特殊说明，否则通过Steam商城自动更新了该软件之后，也无需进行更多操作。 如果软件是手动下载的，则只需要将新版本的软件覆盖旧版本即可。"
-msgstr "No further action is required after the software has been automatically updated via the Steam Store unless otherwise specified. If the software is downloaded manually, you only need to overwrite the old version with the new version of the software."
+msgstr ""
+"No further action is required after the software has been automatically "
+"updated via the Steam Store unless otherwise specified. If the software "
+"is downloaded manually, you only need to overwrite the old version with "
+"the new version of the software."
 
-#: ../../source/SteamVRDriver.rst:60
+#: ../../source/SteamVRDriver.rst:61
 msgid "软件卸载"
 msgstr "Uninstall"
 
-#: ../../source/SteamVRDriver.rst:62
+#: ../../source/SteamVRDriver.rst:63
 msgid "建议在卸载之前，打开该软件，注销驱动，然后通过Steam商城卸载或者直接删除整个程序文件夹。"
-msgstr "It is recommended that before uninstalling, open the software, unregister the driver, and then uninstall through the Steam store or delete the entire program folder directly."
+msgstr ""
+"It is recommended that before uninstalling, open the software, unregister"
+" the driver, and then uninstall through the Steam store or delete the "
+"entire program folder directly."
 

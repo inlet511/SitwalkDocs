@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Sitwalk Documents \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-06-12 11:12+0800\n"
+"POT-Creation-Date: 2022-06-13 16:53+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -28,7 +28,9 @@ msgstr "Driver classification and download"
 
 #: ../../source/Overview.rst:10
 msgid "Sitwalk需要一个服务端驱动和一个客户端同时工作"
-msgstr "Sitwalk requires a server driver and a client driver to work at the same time"
+msgstr ""
+"Sitwalk requires a server driver and a client driver to work at the same "
+"time"
 
 #: ../../source/Overview.rst
 msgid "服务端"
@@ -36,12 +38,15 @@ msgstr "Server"
 
 #: ../../source/Overview.rst:13
 msgid ""
-"服务端驱动目前仅支持 :doc:`Windows系统 <ServerDriver>` , `下载地址 "
+"服务端驱动目前仅支持 :doc:`Windows系统 <ServerDriver>` , `通过SourceForge下载 "
 "<https://sourceforge.net/projects/sitwalkwindowsdriver/files/windows_drivers/>`_"
+" , `通过CDN下载 <http://rdeg64s4m.hn-"
+"bkt.clouddn.com/SitwalkSetup_v1.0.1.zip>`_"
 msgstr ""
 "Server driver is only available on  :doc:`Windows <ServerDriver>` , "
-"`Download Link "
+"`Dowload via SourceForge "
 "<https://sourceforge.net/projects/sitwalkwindowsdriver/files/windows_drivers/>`_"
+", `Download via CDN <http://rdeg64s4m.hn-bkt.clouddn.com/SitwalkSetup_v1.0.1.zip>`_ "
 
 #: ../../source/Overview.rst
 msgid "客户端"
@@ -51,18 +56,21 @@ msgstr "Client"
 msgid ""
 "客户端驱动有三种: :doc:`SteamVR驱动 <SteamVRDriver>` 、 :doc:`UE4驱动 "
 "<UnrealEngineDriver>` 、 :doc:`Unity3D驱动 <Unity3DDriver>` "
-"。SteamVR驱动可以在Steam商城免费获取(搜索Sitwalk), 也可以在 `这里 "
-"<https://sourceforge.net/projects/sitwalksteamdriver/files/>`_ 下载。"
+"。SteamVR驱动可以在Steam商城免费获取(搜索Sitwalk), 也可以在 `通过SourceForge下载 "
+"<https://sourceforge.net/projects/sitwalksteamdriver/files/>`_  或者 "
+"`通过CDN下载 <http://rdeg64s4m.hn-bkt.clouddn.com/SteamDriver.zip>`_ 下载。"
 msgstr ""
 "There are three types of client driver: :doc:`SteamVR Driver "
 "<SteamVRDriver>` 、 :doc:`UE4 Driver <UnrealEngineDriver>` 、 :doc:`Unity3D"
 " Driver <Unity3DDriver>` 。SteamVR Driver can be found in Steam "
-"Store(Search Sitwalk), as well as `Here "
-"<https://sourceforge.net/projects/sitwalksteamdriver/files/>`_ .   "
+"Store(Search Sitwalk), as well as `Download via SourceForge "
+"<https://sourceforge.net/projects/sitwalksteamdriver/files/>`_ .   or `Download via CDN <http://rdeg64s4m.hn-bkt.clouddn.com/SteamDriver.zip>`_ .
 
 #: ../../source/Overview.rst:21
 msgid "UE4以及Unity3D驱动仅向企业版Sitwalk用户提供，在购买企业版Sitwalk座椅时提供。"
-msgstr "UE4 Driver and Unity3D Driver is only provided to Sitwalk Enterprise version users. They will be provided at time of purchase."
+msgstr ""
+"UE4 Driver and Unity3D Driver is only provided to Sitwalk Enterprise "
+"version users. They will be provided at time of purchase."
 
 #: ../../source/Overview.rst:25
 msgid "用户分类及驱动需求"
@@ -98,7 +106,9 @@ msgstr "Required ports"
 
 #: ../../source/Overview.rst:38
 msgid "Sitwalk驱动的正常运行需要两个端口，分别是5010(UE4和Unity3D)和5011(SteamVR)，请确保这两个端口没有被其他进程占用。"
-msgstr "The normal operation of the Sitwalk driver requires two ports, which are 5010(UE4 and Unity3D) and 5011(SteamVR)."
+msgstr ""
+"The normal operation of the Sitwalk driver requires two ports, which are "
+"5010(UE4 and Unity3D) and 5011(SteamVR)."
 
 #: ../../source/Overview.rst:42
 msgid "客户端驱动优先级"
@@ -106,5 +116,9 @@ msgstr "Client driver priorities"
 
 #: ../../source/Overview.rst:44
 msgid "存在这样一种情况：使用Sitwalk的UE4或Unity3D插件开发游戏/应用，并通过SteamVR运行该游戏/应用。在这种特殊情况下，服务端驱动会自动判断，优先和UE4/Unity3D的客户端驱动进行连接。"
-msgstr "There is a situation where a game/app is developed using Sitwalk's UE4 or Unity3D plugin, and run through SteamVR. In this special case, the server driver will automatically determine and prioritize the connection with the UE4/Unity3D client driver."
+msgstr ""
+"There is a situation where a game/app is developed using Sitwalk's UE4 or"
+" Unity3D plugin, and run through SteamVR. In this special case, the "
+"server driver will automatically determine and prioritize the connection "
+"with the UE4/Unity3D client driver."
 
