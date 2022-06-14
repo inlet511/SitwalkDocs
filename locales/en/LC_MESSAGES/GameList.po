@@ -1,0 +1,44 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2022, Ken An
+# This file is distributed under the same license as the Sitwalk Documents
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Sitwalk Documents \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-06-14 17:13+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+
+#: ../../source/GameList.rst:2
+msgid "默认绑定游戏清单"
+msgstr "Default binding game list"
+
+#: ../../source/GameList.rst:5
+msgid "此清单中的游戏无需进行任何输入绑定即可使用Sitwalk游玩"
+msgstr "The games in this list can be played using Sitwalk without any input binding"
+
+#: ../../source/GameList.rst:6
+msgid "其他VR游戏需要您自行绑定SteamVR输入(:doc:`SteamVRBindings`)才能使用Sitwalk游玩"
+msgstr Other VR games require you to bind the SteamVR input (:doc:`SteamVRBindings`) to play with Sitwalk""
+
+#: ../../source/GameList.rst:7
+msgid "该清单会随着Sitwalk Steam VR驱动的更新而更新"
+msgstr "This list will be updated with the Sitwalk Steam VR driver update"
+
+#: ../../source/GameList.rst:9
+msgid "Half-Life: Alyx"
+msgstr "半衰期: 艾利克斯"
+
+#: ../../source/GameList.rst:10
+msgid "POPULATION: ONE"
+msgstr "POPULATION: ONE"
+

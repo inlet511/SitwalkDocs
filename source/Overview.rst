@@ -10,9 +10,9 @@
     Sitwalk需要一个服务端驱动和一个客户端同时工作
 
 
-:服务端:    服务端驱动目前仅支持 :doc:`Windows系统 <ServerDriver>` , `通过SourceForge下载 <https://sourceforge.net/projects/sitwalkwindowsdriver/files/windows_drivers/>`_ , `通过CDN下载 <http://rdeg64s4m.hn-bkt.clouddn.com/SitwalkSetup_v1.0.1.zip>`_
+:服务端:    服务端驱动目前仅支持 :doc:`Windows系统 <ServerDriver>` , `通过SourceForge下载 <https://sourceforge.net/projects/sitwalkwindowsdriver/files/windows_drivers/>`__ , 或者通过该链接下载: http://rdeg64s4m.hn-bkt.clouddn.com/SitwalkSetup_v1.0.1.zip (因部分浏览器的安全限制，请复制链接地址到新标签下载)
 
-:客户端:    客户端驱动有三种: :doc:`SteamVR驱动 <SteamVRDriver>` 、 :doc:`UE4驱动 <UnrealEngineDriver>` 、 :doc:`Unity3D驱动 <Unity3DDriver>` 。SteamVR驱动可以在Steam商城免费获取(搜索Sitwalk), 也可以在 `通过SourceForge下载 <https://sourceforge.net/projects/sitwalksteamdriver/files/>`_  或者 `通过CDN下载 <http://rdeg64s4m.hn-bkt.clouddn.com/SteamDriver.zip>`_ 下载。
+:客户端:    客户端驱动有三种: :doc:`SteamVR驱动 <SteamVRDriver>` 、 :doc:`UE4驱动 <UnrealEngineDriver>` 、 :doc:`Unity3D驱动 <Unity3DDriver>` 。SteamVR驱动可以在Steam商城免费获取(搜索Sitwalk), 也可以 `通过SourceForge下载 <https://sourceforge.net/projects/sitwalksteamdriver/files/>`__  或者通过该链接下载 http://rdeg64s4m.hn-bkt.clouddn.com/SteamDriver.zip (因部分浏览器的安全限制，请复制链接地址到新标签下载)
 
 
 

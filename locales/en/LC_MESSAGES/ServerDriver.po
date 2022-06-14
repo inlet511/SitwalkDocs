@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Sitwalk Documents \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-06-13 16:53+0800\n"
+"POT-Creation-Date: 2022-06-14 17:13+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -29,18 +29,22 @@ msgstr ""
 "server driver is equivalent to the Windows driver."
 
 #: ../../source/ServerDriver.rst:10
-msgid "1 驱动下载及安装"
+#, fuzzy
+msgid "驱动下载及安装"
 msgstr "1 Driver download and installation"
 
 #: ../../source/ServerDriver.rst:12
+#, fuzzy
 msgid ""
 "下载Windows驱动安装文件 `通过SourceForge下载 "
 "<https://sourceforge.net/projects/sitwalkwindowsdriver/files/windows_drivers/>`_"
-"  或 `通过CDN下载 <http://rdeg64s4m.hn-bkt.clouddn.com/SitwalkSetup_v1.0.1.zip>`_ ;"
+"  或者通过该链接下载: http://rdeg64s4m.hn-bkt.clouddn.com/SitwalkSetup_v1.0.1.zip "
+"(因部分浏览器的安全限制，请复制链接地址到新标签下载);"
 msgstr ""
 "Download the Windows driver installation file `Sitwalk Windows Driver "
 "<https://sourceforge.net/projects/sitwalkwindowsdriver/files/windows_drivers/>`_"
-"  or `Download via CDN <http://rdeg64s4m.hn-bkt.clouddn.com/SitwalkSetup_v1.0.1.zip>`_ "
+"  or `Download via CDN <http://rdeg64s4m.hn-"
+"bkt.clouddn.com/SitwalkSetup_v1.0.1.zip>`_ "
 
 #: ../../source/ServerDriver.rst:13
 msgid "双击运行安装文件;"
@@ -51,7 +55,8 @@ msgid "按照提示完成安装。"
 msgstr "Follow the prompts to complete the installation."
 
 #: ../../source/ServerDriver.rst:18
-msgid "2 驱动使用方法"
+#, fuzzy
+msgid "驱动使用方法"
 msgstr "2 How to use the driver"
 
 #: ../../source/ServerDriver.rst:22 ../../source/ServerDriver.rst:105
@@ -87,12 +92,13 @@ msgid "启动座椅旋转( :ref:`startrotating-label`)。"
 msgstr "Activate seat rotation( :ref:`startrotating-label`)。"
 
 #: ../../source/ServerDriver.rst:34
-msgid "3 校准"
+#, fuzzy
+msgid "校准"
 msgstr "3 Calibration"
 
-#: ../../source/ServerDriver.rst:37
-msgid "3.1 步骤"
-msgstr "3.1 Steps"
+#: ../../source/ServerDriver.rst:37 ../../source/ServerDriver.rst:60
+msgid "步骤"
+msgstr ""
 
 #: ../../source/ServerDriver.rst:38
 msgid "在驱动软件上切换到\"校准\"标签栏"
@@ -114,7 +120,8 @@ msgstr ""
 "will be displayed in green."
 
 #: ../../source/ServerDriver.rst:41
-msgid "接上一步骤，用脚将圆盘分别顺时针和逆时针旋转到自己觉得舒适的最大角度。达到一定值以后，驱动软件界面上对应的箭头将显示为绿色。"
+#, fuzzy
+msgid "接上一步骤，用脚将圆盘分别顺时针和逆时针旋转到自己觉得舒适的最大角度。达到一定值以后，驱动软件界面上对应的箭头将显示为绿色(箭头颜色仅为提示作用，部分箭头不变绿不影响校准结果)。"
 msgstr ""
 "Continue with the previous step and use your feet to rotate the pedal "
 "clockwise and counterclockwise to the maximum angle you feel comfortable "
@@ -122,16 +129,12 @@ msgstr ""
 "driver software interface will be displayed in green."
 
 #: ../../source/ServerDriver.rst:42
-msgid "确保上述六个方向(前、后、左、右、顺时针旋转、逆时针旋转)对应的箭头都变为绿色，点击\"完成校准\"，此时该配置将被写入本地文件并永久保存。"
+msgid "点击\"完成校准\"，此时该配置将被写入本地文件并永久保存。"
 msgstr ""
-"Make sure that the arrows corresponding to the above six directions "
-"(front, back, left, right, clockwise rotation, counterclockwise rotation)"
-" are all turned green, click \"Complete calibration\", then the "
-"configuration will be permanently saved to the local file."
 
-#: ../../source/ServerDriver.rst:45
-msgid "3.2 目的"
-msgstr "3.2 Purpose"
+#: ../../source/ServerDriver.rst:45 ../../source/ServerDriver.rst:69
+msgid "目的"
+msgstr ""
 
 #: ../../source/ServerDriver.rst:47
 msgid "校准的目的有两个:"
@@ -155,12 +158,9 @@ msgstr ""
 "separately for different games."
 
 #: ../../source/ServerDriver.rst:57
-msgid "4 设置"
+#, fuzzy
+msgid "设置"
 msgstr "4 Settings"
-
-#: ../../source/ServerDriver.rst:60
-msgid "4.1 步骤"
-msgstr "4.1 Steps"
 
 #: ../../source/ServerDriver.rst:61
 msgid "在驱动软件上切换到\"设置\"标签栏;"
@@ -188,10 +188,6 @@ msgstr ""
 "After the above steps are completed, you need to click \"Apply\" to apply"
 " and save the settings."
 
-#: ../../source/ServerDriver.rst:69
-msgid "4.2 目的"
-msgstr "4.2 Purpose"
-
 #: ../../source/ServerDriver.rst:70
 msgid "设置的目的是根据使用场景的需要，配置硬件的使用模式、灵敏度、速度等，这些内容与校准结果保存在相同的ini文件中。"
 msgstr ""
@@ -200,8 +196,8 @@ msgstr ""
 " which are saved in the same ini file as the calibration result."
 
 #: ../../source/ServerDriver.rst:75
-msgid "4.3 模式"
-msgstr "4.3 Mode"
+msgid "模式"
+msgstr ""
 
 #: ../../source/ServerDriver.rst:76
 msgid "Sitwalk设置了三种操作模式。"
@@ -230,7 +226,8 @@ msgstr ""
 "the handle and can be rotated freely."
 
 #: ../../source/ServerDriver.rst:85
-msgid "4.4 灵敏度"
+#, fuzzy
+msgid "灵敏度"
 msgstr "4.4 Sensitivity"
 
 #: ../../source/ServerDriver.rst:86
@@ -255,8 +252,8 @@ msgstr ""
 " 0.1~0.3."
 
 #: ../../source/ServerDriver.rst:93
-msgid "4.5 速度"
-msgstr "4.5 Speed"
+msgid "速度"
+msgstr ""
 
 #: ../../source/ServerDriver.rst:94
 msgid ""
@@ -272,7 +269,8 @@ msgstr ""
 "adjust the speed of movement and rotation for different games."
 
 #: ../../source/ServerDriver.rst:101
-msgid "4.6 设置前方"
+#, fuzzy
+msgid "设置前方"
 msgstr "4.6 Setting forward"
 
 #: ../../source/ServerDriver.rst:107
@@ -289,7 +287,8 @@ msgstr ""
 " button."
 
 #: ../../source/ServerDriver.rst:113
-msgid "5 启用座椅旋转"
+#, fuzzy
+msgid "启用座椅旋转"
 msgstr "5 Enable seat rotation"
 
 #: ../../source/ServerDriver.rst:117
@@ -303,4 +302,32 @@ msgstr "Switch to the \"Settings\" tab on the driver software"
 #: ../../source/ServerDriver.rst:120
 msgid "点击\"启用座椅旋转\"按钮"
 msgstr "Click the \"Enable Seat Rotation\" button"
+
+#~ msgid "3.1 步骤"
+#~ msgstr "3.1 Steps"
+
+#~ msgid "确保上述六个方向(前、后、左、右、顺时针旋转、逆时针旋转)对应的箭头都变为绿色，点击\"完成校准\"，此时该配置将被写入本地文件并永久保存。"
+#~ msgstr ""
+#~ "Make sure that the arrows corresponding"
+#~ " to the above six directions (front,"
+#~ " back, left, right, clockwise rotation, "
+#~ "counterclockwise rotation) are all turned "
+#~ "green, click \"Complete calibration\", then"
+#~ " the configuration will be permanently "
+#~ "saved to the local file."
+
+#~ msgid "3.2 目的"
+#~ msgstr "3.2 Purpose"
+
+#~ msgid "4.1 步骤"
+#~ msgstr "4.1 Steps"
+
+#~ msgid "4.2 目的"
+#~ msgstr "4.2 Purpose"
+
+#~ msgid "4.3 模式"
+#~ msgstr "4.3 Mode"
+
+#~ msgid "4.5 速度"
+#~ msgstr "4.5 Speed"
 

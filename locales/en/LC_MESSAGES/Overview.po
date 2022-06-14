@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Sitwalk Documents \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-06-13 16:53+0800\n"
+"POT-Creation-Date: 2022-06-14 17:15+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -37,34 +37,40 @@ msgid "服务端"
 msgstr "Server"
 
 #: ../../source/Overview.rst:13
+#, fuzzy
 msgid ""
 "服务端驱动目前仅支持 :doc:`Windows系统 <ServerDriver>` , `通过SourceForge下载 "
-"<https://sourceforge.net/projects/sitwalkwindowsdriver/files/windows_drivers/>`_"
-" , `通过CDN下载 <http://rdeg64s4m.hn-"
-"bkt.clouddn.com/SitwalkSetup_v1.0.1.zip>`_"
+"<https://sourceforge.net/projects/sitwalkwindowsdriver/files/windows_drivers/>`__"
+" , 或者通过该链接下载: http://rdeg64s4m.hn-bkt.clouddn.com/SitwalkSetup_v1.0.1.zip"
+" (因部分浏览器的安全限制，请复制链接地址到新标签下载)"
 msgstr ""
 "Server driver is only available on  :doc:`Windows <ServerDriver>` , "
 "`Dowload via SourceForge "
-"<https://sourceforge.net/projects/sitwalkwindowsdriver/files/windows_drivers/>`_"
-", `Download via CDN <http://rdeg64s4m.hn-bkt.clouddn.com/SitwalkSetup_v1.0.1.zip>`_ "
+"<https://sourceforge.net/projects/sitwalkwindowsdriver/files/windows_drivers/>`_,"
+" `Download via CDN <http://rdeg64s4m.hn-"
+"bkt.clouddn.com/SitwalkSetup_v1.0.1.zip>`_ "
 
 #: ../../source/Overview.rst
 msgid "客户端"
 msgstr "Client"
 
 #: ../../source/Overview.rst:15
+#, fuzzy
 msgid ""
 "客户端驱动有三种: :doc:`SteamVR驱动 <SteamVRDriver>` 、 :doc:`UE4驱动 "
 "<UnrealEngineDriver>` 、 :doc:`Unity3D驱动 <Unity3DDriver>` "
-"。SteamVR驱动可以在Steam商城免费获取(搜索Sitwalk), 也可以在 `通过SourceForge下载 "
-"<https://sourceforge.net/projects/sitwalksteamdriver/files/>`_  或者 "
-"`通过CDN下载 <http://rdeg64s4m.hn-bkt.clouddn.com/SteamDriver.zip>`_ 下载。"
+"。SteamVR驱动可以在Steam商城免费获取(搜索Sitwalk), 也可以 `通过SourceForge下载 "
+"<https://sourceforge.net/projects/sitwalksteamdriver/files/>`__  "
+"或者通过该链接下载 http://rdeg64s4m.hn-bkt.clouddn.com/SteamDriver.zip "
+"(因部分浏览器的安全限制，请复制链接地址到新标签下载)"
 msgstr ""
 "There are three types of client driver: :doc:`SteamVR Driver "
 "<SteamVRDriver>` 、 :doc:`UE4 Driver <UnrealEngineDriver>` 、 :doc:`Unity3D"
 " Driver <Unity3DDriver>` 。SteamVR Driver can be found in Steam "
 "Store(Search Sitwalk), as well as `Download via SourceForge "
-"<https://sourceforge.net/projects/sitwalksteamdriver/files/>`_ .   or `Download via CDN <http://rdeg64s4m.hn-bkt.clouddn.com/SteamDriver.zip>`_ .
+"<https://sourceforge.net/projects/sitwalksteamdriver/files/>`_ .   or "
+"`Download via CDN <http://rdeg64s4m.hn-bkt.clouddn.com/SteamDriver.zip>`_"
+" "
 
 #: ../../source/Overview.rst:21
 msgid "UE4以及Unity3D驱动仅向企业版Sitwalk用户提供，在购买企业版Sitwalk座椅时提供。"

@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Sitwalk Documents \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-06-12 10:54+0800\n"
+"POT-Creation-Date: 2022-06-14 17:13+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -24,40 +24,77 @@ msgstr "Quick guide for gamers"
 
 #: ../../source/GamePlayerQuickGuide.rst:5
 msgid "如果您是第一次使用Sitwalk进行VR游戏的玩家，完成如下步骤即可使用Sitwalk座椅进行VR游戏："
-msgstr "If you are the first time to use Sitwalk to play VR games, complete the following steps:"
-
-#: ../../source/GamePlayerQuickGuide.rst:7
-msgid "使用USB线将Sitwalk设备连接到您的Windows个人计算机;"
-msgstr "Connect the Sitwalk device to your Windows PC using a USB cable;"
+msgstr ""
+"If you are the first time to use Sitwalk to play VR games, complete the "
+"following steps:"
 
 #: ../../source/GamePlayerQuickGuide.rst:8
+msgid "前置需求"
+msgstr "
+Prerequisites"
+
+#: ../../source/GamePlayerQuickGuide.rst:10
+msgid "已有Steam账号;"
+msgstr "A Steam account;"
+
+#: ../../source/GamePlayerQuickGuide.rst:11
+msgid "Steam平台上的VR游戏已安装好;"
+msgstr "The VR game on Steam has been installed;"
+
+#: ../../source/GamePlayerQuickGuide.rst:12
+msgid "VR头盔和手柄已正常工作;"
+msgstr "The VR headset and controllers are working properly;"
+
+#: ../../source/GamePlayerQuickGuide.rst:15
+msgid "操作步骤"
+msgstr "Steps"
+
+#: ../../source/GamePlayerQuickGuide.rst:17
+msgid "使用USB线将Sitwalk设备连接到您的Windows个人电脑;"
+msgstr "Connect the Sitwalk device to your Windows PC using a USB cable;"
+
+#: ../../source/GamePlayerQuickGuide.rst:18
 msgid "按下Sitwalk设备上的电源键，开启电源;"
 msgstr "Press the power button on the Sitwalk device to power on;"
 
-#: ../../source/GamePlayerQuickGuide.rst:9
+#: ../../source/GamePlayerQuickGuide.rst:19
+msgid "安装并启动(:doc:`ServerDriver`);"
+msgstr "Install and start (:doc:`ServerDriver`)"
+
+#: ../../source/GamePlayerQuickGuide.rst:20
 msgid ""
-"安装并启动Sitwalk服务端驱动(`下载地址 "
-"<https://sourceforge.net/projects/sitwalkwindowsdriver/files/windows_drivers/>`_"
-" );"
+"进行一次校准(:ref:`校准 <calibration-label>`)，进行一次设置(:ref:`设置 <settings-"
+"label>`)，启动座椅旋转(:ref:`启用旋转 <startrotating-label>`)；"
 msgstr ""
-"Install and start the Sitwalk server driver(`Download "
-"<https://sourceforge.net/projects/sitwalkwindowsdriver/files/windows_drivers/>`_"
-" );"
+"Perform a calibration( :ref:`Calibration <calibration-label>`)，Perform a setup( :ref"
+":`Settings <settings-label>`)，Activate seat rotation( :ref:`Enable Rotating <startrotating-label>`)；"
 
+#: ../../source/GamePlayerQuickGuide.rst:21
+msgid "安装(:doc:`SteamVRDriver`)；"
+msgstr "Install (:doc:`SteamVRDriver`)；"
 
-#: ../../source/GamePlayerQuickGuide.rst:10
-msgid ""
-"进行一次校准( :ref:`calibration-label`)，进行一次设置( :ref:`settings-label`)，启动座椅旋转( "
-":ref:`startrotating-label`)；"
-msgstr ""
-"Perform a calibration( :ref:`calibration-label`)，Perform a setup( :ref:`settings-label`)，Activate seat rotation( "
-":ref:`startrotating-label`)；"
+#: ../../source/GamePlayerQuickGuide.rst:22
+msgid "设置好游戏的输入绑定(:doc:`SteamVRBindings`)。"
+msgstr "Set up your game's input bindings (:doc:`SteamVRBindings`)."
 
-#: ../../source/GamePlayerQuickGuide.rst:11
-msgid "通过Steam商城搜索并下载安装Sitwalk的Steam插件；"
-msgstr "Search and install the Steam driver for Sitwalk through the Steam store"
+#~ msgid ""
+#~ "安装并启动Sitwalk服务端驱动(`下载地址 "
+#~ "<https://sourceforge.net/projects/sitwalkwindowsdriver/files/windows_drivers/>`_"
+#~ " );"
+#~ msgstr ""
+#~ "Install and start the Sitwalk server "
+#~ "driver(`Download "
+#~ "<https://sourceforge.net/projects/sitwalkwindowsdriver/files/windows_drivers/>`_"
+#~ " );"
 
-#: ../../source/GamePlayerQuickGuide.rst:12
-msgid "在SteamVR中打开控制器设置，并对要游玩的游戏设置Sitwalk官方提供的绑定，或者自行进行按键绑定设置。"
-msgstr "Open the controller settings in SteamVR, and activate the binding provided by Sitwalk for the game you want to play, or set the key binding yourself."
+#~ msgid "通过Steam商城搜索并下载安装Sitwalk的Steam插件；"
+#~ msgstr "Search and install the Steam driver for Sitwalk through the Steam store"
+
+#~ msgid "在SteamVR中打开控制器设置，并对要游玩的游戏设置Sitwalk官方提供的绑定，或者自行进行按键绑定设置。"
+#~ msgstr ""
+#~ "Open the controller settings in SteamVR,"
+#~ " and activate the binding provided by"
+#~ " Sitwalk for the game you want "
+#~ "to play, or set the key binding"
+#~ " yourself."
 
