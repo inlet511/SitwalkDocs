@@ -30,8 +30,7 @@ msgstr ""
 
 #: ../../source/GamePlayerQuickGuide.rst:8
 msgid "前置需求"
-msgstr "
-Prerequisites"
+msgstr "Prerequisites"
 
 #: ../../source/GamePlayerQuickGuide.rst:10
 msgid "已有Steam账号;"

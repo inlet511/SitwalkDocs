@@ -20,47 +20,47 @@ msgstr ""
 
 #: ../../source/SteamVRBindings.rst:3
 msgid "SteamVR 输入绑定"
-msgstr ""
+msgstr "SteamVR Input Bindings"
 
 #: ../../source/SteamVRBindings.rst:7
 msgid "什么是SteamVR输入绑定"
-msgstr ""
+msgstr "What is SteamVR Input Bindings"
 
 #: ../../source/SteamVRBindings.rst:9
 msgid "SteamVR 输入绑定是SteamVR平台提供的功能，它用于自定义VR控制器和游戏输入之间的映射关系。"
-msgstr ""
+msgstr "SteamVR Input Bindings is a feature provided by the SteamVR platform that is used to customize the mapping between VR controllers and game inputs."
 
 #: ../../source/SteamVRBindings.rst:11
 msgid "它类似于游戏的按键绑定功能，只不过是用于VR控制器和VR游戏之间的。"
-msgstr ""
+msgstr "It's similar to a game's key binding function, but it's between a VR controller and a VR game."
 
 #: ../../source/SteamVRBindings.rst:15
 msgid "我需要了解SteamVR输入绑定吗？"
-msgstr ""
+msgstr "Do I need to know about SteamVR input bindings?"
 
 #: ../../source/SteamVRBindings.rst:17
 msgid ""
 "部分主流VR游戏我们已经提供了官方按键绑定，对于这些游戏，您无需进行输入绑定便可直接游玩。直接支持的SteamVR游戏列表参见：:doc:`GameList`"
 " 。"
-msgstr ""
+msgstr "We have provided official key bindings for some mainstream VR games. For these games, you can play directly without binding inputs manually. For a list of directly supported SteamVR games, see: :doc:`GameList`"
 
 #: ../../source/SteamVRBindings.rst:19
 msgid "对于列表之外的VR游戏，如果未发现社区中其他用户分享的绑定，您需要自行进行绑定。"
-msgstr ""
+msgstr "For VR games not listed, if you do not find bindings shared by other users in the community, you need to bind them yourself."
 
 #: ../../source/SteamVRBindings.rst:21
 msgid "一般来说，您只需要绑定前后左右四个方向的移动(旋转是不需要进行绑定的)。"
-msgstr ""
+msgstr "Generally speaking, you only need to bind the movement in four directions ,front, back, left, right and left (rotation does not need to be bound)."
 
 #: ../../source/SteamVRBindings.rst:24
 msgid ""
 "本身未设计移动功能的VR游戏, "
 "使用Sitwalk也无法进行移动，但您可以借助Sitwalk更方便的在VR世界中进行旋转。您也可以根据需要，将脚踏板绑到其他功能。"
-msgstr ""
+msgstr "A VR game that does not have a moving function itself cannot be moved using Sitwalk, but you can use Sitwalk to rotate in the VR world more conveniently. You can also bind the foot pedal to other functions as needed."
 
 #: ../../source/SteamVRBindings.rst:30
 msgid "如何进行SteamVR输入绑定？"
-msgstr ""
+msgstr "How to make SteamVR input bindings?"
 
 #~ msgid "SteamVR 按键绑定"
 #~ msgstr "SteamVR Bindings"

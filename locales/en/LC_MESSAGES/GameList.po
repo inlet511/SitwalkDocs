@@ -36,7 +36,7 @@ msgstr "This list will be updated with the Sitwalk Steam VR driver update"
 
 #: ../../source/GameList.rst:9
 msgid "Half-Life: Alyx"
-msgstr "半衰期: 艾利克斯"
+msgstr "Half-Life: Alyx"
 
 #: ../../source/GameList.rst:10
 msgid "POPULATION: ONE"

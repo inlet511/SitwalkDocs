@@ -37,7 +37,6 @@ msgid "服务端"
 msgstr "Server"
 
 #: ../../source/Overview.rst:13
-#, fuzzy
 msgid ""
 "服务端驱动目前仅支持 :doc:`Windows系统 <ServerDriver>` , `通过SourceForge下载 "
 "<https://sourceforge.net/projects/sitwalkwindowsdriver/files/windows_drivers/>`__"
@@ -47,15 +46,13 @@ msgstr ""
 "Server driver is only available on  :doc:`Windows <ServerDriver>` , "
 "`Dowload via SourceForge "
 "<https://sourceforge.net/projects/sitwalkwindowsdriver/files/windows_drivers/>`_,"
-" `Download via CDN <http://rdeg64s4m.hn-"
-"bkt.clouddn.com/SitwalkSetup_v1.0.1.zip>`_ "
+" or download from this link: http://rdeg64s4m.hn-bkt.clouddn.com/SitwalkSetup_v1.0.1.zip (Due to the security restrictions of some browsers, please copy the link address to a new tab to download) "
 
 #: ../../source/Overview.rst
 msgid "客户端"
 msgstr "Client"
 
 #: ../../source/Overview.rst:15
-#, fuzzy
 msgid ""
 "客户端驱动有三种: :doc:`SteamVR驱动 <SteamVRDriver>` 、 :doc:`UE4驱动 "
 "<UnrealEngineDriver>` 、 :doc:`Unity3D驱动 <Unity3DDriver>` "
@@ -69,8 +66,8 @@ msgstr ""
 " Driver <Unity3DDriver>` 。SteamVR Driver can be found in Steam "
 "Store(Search Sitwalk), as well as `Download via SourceForge "
 "<https://sourceforge.net/projects/sitwalksteamdriver/files/>`_ .   or "
-"`Download via CDN <http://rdeg64s4m.hn-bkt.clouddn.com/SteamDriver.zip>`_"
-" "
+" or download from this link: http://rdeg64s4m.hn-bkt.clouddn.com/SteamDriver.zip (Due to the security restrictions of some browsers, please copy the link address to a new tab to download) "
+
 
 #: ../../source/Overview.rst:21
 msgid "UE4以及Unity3D驱动仅向企业版Sitwalk用户提供，在购买企业版Sitwalk座椅时提供。"
@@ -113,8 +110,7 @@ msgstr "Required ports"
 #: ../../source/Overview.rst:38
 msgid "Sitwalk驱动的正常运行需要两个端口，分别是5010(UE4和Unity3D)和5011(SteamVR)，请确保这两个端口没有被其他进程占用。"
 msgstr ""
-"The normal operation of the Sitwalk driver requires two ports, which are "
-"5010(UE4 and Unity3D) and 5011(SteamVR)."
+"The normal operation of the Sitwalk driver requires two ports, which are 5010 (UE4 and Unity3D) and 5011 (SteamVR), Please make sure that these two ports are not occupied by other processes."
 
 #: ../../source/Overview.rst:42
 msgid "客户端驱动优先级"
