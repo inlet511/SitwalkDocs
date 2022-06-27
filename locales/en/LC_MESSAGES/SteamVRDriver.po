@@ -44,9 +44,9 @@ msgstr ""
 
 #: ../../source/SteamVRDriver.rst:12
 msgid ""
-"通过该链接下载 http://rdeg64s4m.hn-bkt.clouddn.com/SteamDriver.zip "
+"通过该链接下载 http://cdn.sitwalk.xyz/SteamDriver.zip "
 "(因部分浏览器的安全限制，请复制链接地址到新标签下载)"
-msgstr "Download via this link: http://rdeg64s4m.hn-bkt.clouddn.com/SteamDriver.zip. "
+msgstr "Download via this link: http://cdn.sitwalk.xyz/SteamDriver.zip. "
 "(Due to the security restrictions of some browsers, please copy the link address to a new tab to download.)"
 
 #: ../../source/SteamVRDriver.rst:16

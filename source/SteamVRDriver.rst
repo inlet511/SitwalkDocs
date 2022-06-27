@@ -9,7 +9,7 @@ SteamVR 驱动
 
 1. 在Steam商城中搜索Sitwalk 
 2. `通过SourceForge下载 <https://sourceforge.net/projects/sitwalksteamdriver/files/>`_
-3. 通过该链接下载 http://rdeg64s4m.hn-bkt.clouddn.com/SteamDriver.zip (因部分浏览器的安全限制，请复制链接地址到新标签下载)
+3. 通过该链接下载 http://cdn.sitwalk.xyz/SteamDriver.zip (因部分浏览器的安全限制，请复制链接地址到新标签下载)
 
 .. note::
 
