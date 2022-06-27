@@ -37,7 +37,6 @@ msgid "服务端"
 msgstr "Server"
 
 #: ../../source/Overview.rst:13
-#, fuzzy
 msgid ""
 "服务端驱动目前仅支持 :doc:`Windows系统 <ServerDriver>` , `通过SourceForge下载 "
 "<https://sourceforge.net/projects/sitwalkwindowsdriver/files/windows_drivers/>`__"
