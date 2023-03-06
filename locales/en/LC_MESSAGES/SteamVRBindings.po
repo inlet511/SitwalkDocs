@@ -9,59 +9,219 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Sitwalk Documents \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-06-14 17:13+0800\n"
+"POT-Creation-Date: 2023-03-06 13:28+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.9.1\n"
+"Generated-By: Babel 2.12.1\n"
 
 #: ../../source/SteamVRBindings.rst:3
 msgid "SteamVR 输入绑定"
 msgstr "SteamVR Input Bindings"
 
 #: ../../source/SteamVRBindings.rst:7
-msgid "什么是SteamVR输入绑定"
-msgstr "What is SteamVR Input Bindings"
+msgid "什么是SteamVR输入绑定？"
+msgstr "What is SteamVR Input Bindings?"
 
 #: ../../source/SteamVRBindings.rst:9
 msgid "SteamVR 输入绑定是SteamVR平台提供的功能，它用于自定义VR控制器和游戏输入之间的映射关系。"
-msgstr "SteamVR Input Bindings is a feature provided by the SteamVR platform that is used to customize the mapping between VR controllers and game inputs."
+msgstr ""
+"SteamVR Input Bindings is a feature provided by the SteamVR platform that"
+" is used to customize the mapping between VR controllers and game inputs."
 
 #: ../../source/SteamVRBindings.rst:11
-msgid "它类似于游戏的按键绑定功能，只不过是用于VR控制器和VR游戏之间的。"
-msgstr "It's similar to a game's key binding function, but it's between a VR controller and a VR game."
+msgid "它类似于普通游戏的按键绑定功能，只不过是用于VR控制器和VR游戏之间的。"
+msgstr ""
+"It is similar to the key mapping function of ordinary games, but it's between a VR "
+"controller and a VR game."
 
 #: ../../source/SteamVRBindings.rst:15
-msgid "我需要了解SteamVR输入绑定吗？"
-msgstr "Do I need to know about SteamVR input bindings?"
+msgid "必须要自己绑定吗？"
+msgstr "Do I have to bind myself?"
 
 #: ../../source/SteamVRBindings.rst:17
 msgid ""
 "部分主流VR游戏我们已经提供了官方按键绑定，对于这些游戏，您无需进行输入绑定便可直接游玩。直接支持的SteamVR游戏列表参见：:doc:`GameList`"
 " 。"
-msgstr "We have provided official key bindings for some mainstream VR games. For these games, you can play directly without binding inputs manually. For a list of directly supported SteamVR games, see: :doc:`GameList`"
+msgstr ""
+"We have provided official key bindings for some mainstream VR games. For "
+"these games, you can play directly without binding inputs manually. For a"
+" list of directly supported SteamVR games, see: :doc:`GameList`"
 
 #: ../../source/SteamVRBindings.rst:19
-msgid "对于列表之外的VR游戏，如果未发现社区中其他用户分享的绑定，您需要自行进行绑定。"
-msgstr "For VR games not listed, if you do not find bindings shared by other users in the community, you need to bind them yourself."
+msgid ""
+"如果某款游戏可以找到他人分享的Sitwalk输入绑定，也可以直接使用，详见：:ref:`share_config`,  "
+":ref:`use_shared_config`"
+msgstr ""
+"If you can find a Sitwalk input binding for a game shared by others, you can also use it directly, see: :ref:`share_config`, "
+":ref:`use_shared_config`"
 
 #: ../../source/SteamVRBindings.rst:21
-msgid "一般来说，您只需要绑定前后左右四个方向的移动(旋转是不需要进行绑定的)。"
-msgstr "Generally speaking, you only need to bind the movement in four directions ,front, back, left, right and left (rotation does not need to be bound)."
+msgid "其他的情况下，您需要自行进行绑定。"
+msgstr "In other cases, you need to do the binding yourself."
 
 #: ../../source/SteamVRBindings.rst:24
-msgid ""
-"本身未设计移动功能的VR游戏, "
-"使用Sitwalk也无法进行移动，但您可以借助Sitwalk更方便的在VR世界中进行旋转。您也可以根据需要，将脚踏板绑到其他功能。"
-msgstr "A VR game that does not have a moving function itself cannot be moved using Sitwalk, but you can use Sitwalk to rotate in the VR world more conveniently. You can also bind the foot pedal to other functions as needed."
+msgid "一般来说，您只需要绑定前后左右四个方向的移动(Sitwalk座椅的旋转是不需要进行绑定的)。"
+msgstr ""
+"In general, you only need to bind the four directions of movement (Sitwalk seat rotation is not required to be bound)"
 
-#: ../../source/SteamVRBindings.rst:30
+#: ../../source/SteamVRBindings.rst:26
+msgid "使用座椅控制角色的连续移动需要游戏本身支持\"持续移动\"的移动方法，一般在游戏内的控制设置中进行修改。"
+msgstr "Using the seat to control the character's continuous movement requires the game itself to support the \"continuous movement\" movement method, which is usually modified in the in-game control settings."
+
+#: ../../source/SteamVRBindings.rst:28
+msgid "如果游戏本身不支持角色的移动，或者只支持\"瞬移\"的模式，Sitwalk座椅无法强制修改为连续移动，这是游戏本身设计的选择。但是这种情况下，您仍可以借助Sitwalk更方便的在VR世界中进行旋转。您也可以根据需要，将脚踏板绑到其他功能(例如换弹夹、跳跃、交互等)。"
+msgstr ""
+"If the game itself does not support the movement of the character, or only support \ "teleport \" mode, Sitwalk seat can not force a change in the way you move, this is the design of the game itself. However, in this case, you can still use the Sitwalk to rotate in the VR world more easily. You can also bind the foot pedal to other functions (such as reloading, jumping, interacting, etc.) as needed."
+
+#: ../../source/SteamVRBindings.rst:34
 msgid "如何进行SteamVR输入绑定？"
 msgstr "How to make SteamVR input bindings?"
 
+#: ../../source/SteamVRBindings.rst:35
+msgid "打开控制器设置"
+msgstr "Open controller settings"
+
+#: ../../source/SteamVRBindings.rst:39
+msgid "进入\"管理控制器绑定\""
+msgstr "Go to \"Manage Controller bindings\""
+
+#: ../../source/SteamVRBindings.rst:43
+msgid "选择游戏"
+msgstr "Choose a game"
+
+#: ../../source/SteamVRBindings.rst:45
+msgid "1 选择希望配置的游戏。"
+msgstr "1 Select the game you wish to configure."
+
+#: ../../source/SteamVRBindings.rst:46
+msgid "2 设定为自定义。"
+msgstr "2 Select Custom."
+
+#: ../../source/SteamVRBindings.rst:47
+msgid "3 点击\"选择另一个\""
+msgstr "3 Click \"Choose Another\""
+
+#: ../../source/SteamVRBindings.rst:51
+msgid "设定Sitwalk为当前的游戏控制器"
+msgstr "Set Sitwalk as the current game controller"
+
+#: ../../source/SteamVRBindings.rst:53
+msgid "如图点击右侧的当前控制器，选择Sitwalk为当前控制器"
+msgstr "Click on the current controller on the right side as shown, and select Sitwalk as the current controller"
+
+#: ../../source/SteamVRBindings.rst:62
+msgid ""
+"注意，若此处找不到SitWalk_controller，说明驱动安装出现了问题，请参照 "
+":doc:`SteamVR驱动<SteamVRDriver>` ，再次确认驱动安装正确。"
+msgstr ""
+"Note that if SitWalk_controller is not found here, it means there is a problem with the driver installation, please refer to"
+":doc:`SteamVRDriver<SteamVRDriver>` ，Re-confirm that the driver is installed correctly."
+
+#: ../../source/SteamVRBindings.rst:64
+msgid ""
+"5. 编辑控制方案 选择编辑当前的方案（图中②），或者新建一个新的方案（图中③）； 点击“编辑”后进入按键编辑界面，编辑详细介绍见本文5.4小节 "
+":ref:`edit_configuration` 。"
+msgstr ""
+"Edit the control settings, Select to edit the current settings (Figure ②) or create a new settings (Figure ③); click "Edit" to enter the editing interface, see Section 5.4 of this document for details of editing "
+":ref:`edit_configuration` ."
+
+#: ../../source/SteamVRBindings.rst:71
+msgid "控制和移动反向怎么办？"
+msgstr "What about control and movement reversal?"
+
+#: ../../source/SteamVRBindings.rst:73
+msgid "如果出现控制和移动方向相反的情况，可以在配置方案中找到相应的移动控制按键，点击左下角编辑按钮，再点击右下角设置按钮："
+msgstr "If there is a situation where the control and movement directions are reversed, you can find the corresponding movement control button in the configuration settings, click the Edit button in the lower left corner, and then click the Settings button in the lower right corner."
+
+#: ../../source/SteamVRBindings.rst:79
+msgid "在详细设定界面中勾选反转，即可反转控制。"
+msgstr "Check Reverse in the detailed setting screen to reverse the control."
+
+#: ../../source/SteamVRBindings.rst:87
+msgid "如何编辑配置方案？"
+msgstr "How do I edit the configuration settings?"
+
+#: ../../source/SteamVRBindings.rst:89
+msgid ""
+"首先我们需要了解当前游戏的移动命令，最好方法是参考游戏对其他控制器的默认绑定，例如 Index Controller、Vive "
+"Controller等。"
+msgstr ""
+"First we need to understand the current game's move commands, "
+"the best way to do this is to refer to the game's default bindings for other controllers, for example Index Controller、Vive Controller."
+
+#: ../../source/SteamVRBindings.rst:91
+msgid "按左上角的“back”返回到控制方案的主界面，切换控制器为其他vr控制器，这里以Index Controller为例。"
+msgstr "Press \"back\" in the upper left corner to return to the main interface of the control settings, switch the controller to other vr controllers, here to Index Controller for example."
+
+#: ../../source/SteamVRBindings.rst:93
+msgid "切换为Index Controller后，左侧会显示有Steam预置好的配置方案，如下图所示，点击Edit进入。"
+msgstr "After switching to Index Controller, the left side will show the pre-configured configuration scheme of Steam, as shown below, click Edit to enter"
+
+#: ../../source/SteamVRBindings.rst:97
+msgid ""
+"找到控制移动的命令， 这个游戏在使用Index "
+"Controller的情况下，是使用左手柄的Thumbstick进行移动的（这一点通过自行使用手柄进入游戏游玩即可确定， "
+"另外，这也是游戏的一个通用移动按键设置)."
+msgstr ""
+"Find the command to control the movement, the game in the case of using Index Controller, "
+"is to use the Thumbstick of the left controller to move (this can be determined by using the controller to play the game yourself,"
+" in addition, this is also a generic movement settings)."
+
+#: ../../source/SteamVRBindings.rst:99
+msgid "因此我们可以找到Thumbstick相关的设定，记住其设置："
+msgstr "So we can find Thumbstick related settings and remember its settings:"
+
+#: ../../source/SteamVRBindings.rst:113
+msgid "点击左上角Back返回，切换为Sitwalk控制器，并点击Edit编辑自己的Sitwalk控制方案。"
+msgstr "Click Back in the upper left corner to return, switch to the Sitwalk controller, and click Edit to edit your own Sitwalk control settings."
+
+#: ../../source/SteamVRBindings.rst:115
+msgid "在Sitwalk控制方案中参考步骤3的设定进行设置"
+msgstr "Refer to the settings in step 3 in the Sitwalk control scheme to do the settings"
+
+#: ../../source/SteamVRBindings.rst:118
+msgid ""
+"Sitwalk中没有Thumbstick, "
+"与之对等的是Joystick栏或Trackpad栏，优先选择Joystick，如果绑定无效，尝试使用Trackpad。"
+msgstr ""
+"There is no Thumbstick in Sitwalk, "
+"The counterpart is Joystick column or Trackpad column, give preference to Joystick, if the binding does not work, try to use Trackpad."
+
+#: ../../source/SteamVRBindings.rst:121
+msgid "点击“+”创建，并选择Use As Joystick，然后依次参照第3步设置Click、Touch、Postion。"
+msgstr "Click \"+\" , and select Use As Joystick, then refer to step 3 to set Click, Touch, Postion in turn."
+
+#: ../../source/SteamVRBindings.rst:125
+msgid "设置完毕后点击（5）步骤图中右上标红部分“Extra Settings”，勾选“return bindings with left hand”。"
+msgstr "After setting, click \"Extra Settings\" in the upper right part of the diagram in step (5) and check \"return bindings with left hand\"."
+
+#: ../../source/SteamVRBindings.rst:133
+msgid "如何分享配置文件?"
+msgstr "How to share profiles?"
+
+#: ../../source/SteamVRBindings.rst:135
+msgid "用户可以将自己配置好的控制方案上传至SteamVR的创意工坊中，与其他用户分享使用自己的配置方案。"
+msgstr "Users can upload their configured control settings to SteamVR's Creative Workshop and share with other users to use their own configuration settings."
+
+#: ../../source/SteamVRBindings.rst:142
+msgid "如何使用他人分享的配置文件?"
+msgstr "How do I use the configuration files shared by others?"
+
+#: ../../source/SteamVRBindings.rst:144
+msgid "在按键配置方案的页面中，可以看到其他用户共享上传的配置方案，可在此处选择使用他人的配置方案来进行游戏。"
+msgstr "On the configuration settings page, you can see the configuration settings shared and uploaded by other users, where you can choose to use other people's configuration settings to play the game."
+
 #~ msgid "SteamVR 按键绑定"
 #~ msgstr "SteamVR Bindings"
+
+#~ msgid "我需要了解SteamVR输入绑定吗？"
+#~ msgstr "Do I need to know about SteamVR input bindings?"
+
+#~ msgid "对于列表之外的VR游戏，如果未发现社区中其他用户分享的绑定，您需要自行进行绑定。"
+#~ msgstr ""
+#~ "For VR games outside of the list, if you do not find a bundle shared by other users in the community, you will need to do the bundle yourself.
 

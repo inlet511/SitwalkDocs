@@ -9,9 +9,13 @@
 驱动下载及安装
 ==============
 
-1. 下载Windows驱动安装文件 `通过SourceForge下载 <https://sourceforge.net/projects/sitwalkwindowsdriver/files/windows_drivers/>`_  或者通过该链接下载: http://cdn.sitwalk.xyz/SitwalkSetup_v1.0.1.zip (因部分浏览器的安全限制，请复制链接地址到新标签下载);
-#. 双击运行安装文件;
-#. 按照提示完成安装。
+1. 下载USB串口驱动(CH341SER_1.exe) 
+    + 中国大陆以外地区： `USB串口驱动 <https://sourceforge.net/projects/sitwalkwindowsdriver/files/serial_driver/CH341SER_1.EXE/download>`_  
+    + 中国大陆地区：  http://cdn.sitwalk.xyz/CH341SER_1.EXE (请复制链接地址到新标签页下载)
+#. 下载Windows驱动安装文件 
+    + 中国大陆以外地区： `Windows驱动 <https://sourceforge.net/projects/sitwalkwindowsdriver/files/windows_drivers/>`_ 
+    + 中国大陆地区：http://cdn.sitwalk.xyz/SitwalkSetup_v1.0.1.zip (请复制链接地址到新标签页下载)
+#. 按照提示默认安装上述两个软件。
 
 
 驱动使用方法

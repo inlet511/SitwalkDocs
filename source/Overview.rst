@@ -10,15 +10,24 @@
     Sitwalk需要一个服务端驱动和一个客户端同时工作
 
 
-:服务端:    服务端驱动目前仅支持 :doc:`Windows系统 <ServerDriver>` , `通过SourceForge下载 <https://sourceforge.net/projects/sitwalkwindowsdriver/files/windows_drivers/>`__ , 或者通过该链接下载: http://cdn.sitwalk.xyz/SitwalkSetup_v1.0.1.zip  (因部分浏览器的安全限制，请复制链接地址到新标签下载)
+服务端 
+------
 
-:客户端:    客户端驱动有三种: :doc:`SteamVR驱动 <SteamVRDriver>` 、 :doc:`UE4驱动 <UnrealEngineDriver>` 、 :doc:`Unity3D驱动 <Unity3DDriver>` 。SteamVR驱动可以在Steam商城免费获取(搜索Sitwalk), 也可以 `通过SourceForge下载 <https://sourceforge.net/projects/sitwalksteamdriver/files/>`__  或者通过该链接下载 http://cdn.sitwalk.xyz/SteamDriver.zip (因部分浏览器的安全限制，请复制链接地址到新标签下载)
+服务端驱动目前仅支持Windows系统，服务端驱动的介绍、下载详见: :doc:`Windows系统 <ServerDriver>`
 
+客户端
+------
+客户端驱动有三种: 
 
+    + :doc:`SteamVR驱动下载 <SteamVRDriver>` 
+        + 中国大陆以外地区： `SteamVR驱动 <https://sourceforge.net/projects/sitwalksteamdriver/files/>`_
+        + 中国大陆地区：http://cdn.sitwalk.xyz/SteamDriver.zip (请复制链接地址到新标签页下载)
 
-.. note::
+    + :doc:`UE4驱动 <UnrealEngineDriver>` 
+        + 仅供Sitwalk企业版用户提供, 请咨询供应商
 
-    UE4以及Unity3D驱动仅向企业版Sitwalk用户提供，在购买企业版Sitwalk座椅时提供。
+    + :doc:`Unity3D驱动 <Unity3DDriver>` 
+        + 仅供Sitwalk企业版用户提供, 请咨询供应商
 
 
 用户分类及驱动需求
